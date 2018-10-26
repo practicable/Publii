@@ -14,7 +14,7 @@
                 class="license">
                 <p>
                     This software is licensed under GNU GPL version 3.<br>
-                    By clicking "Accept" you are agree to the
+                    By clicking "Accept" you agree to the
                     <a
                         href="#"
                         @click="showLicense">
